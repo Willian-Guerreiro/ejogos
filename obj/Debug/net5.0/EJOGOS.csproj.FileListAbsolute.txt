@@ -9,7 +9,6 @@ D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjet
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\bin\Debug\net5.0\EJOGOS.pdb
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\bin\Debug\net5.0\EJOGOS.Views.dll
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\bin\Debug\net5.0\EJOGOS.Views.pdb
-D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.csproj.AssemblyReference.cache
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.GeneratedMSBuildEditorConfig.editorconfig
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.AssemblyInfoInputs.cache
 D:\ALL_BACKUP\4 - Cursos_e_materiais_de_estudo\MS-DEV C#\Exemplo1\PrimeiroProjeto\EJOGOS\EJOGOS\obj\Debug\net5.0\EJOGOS.AssemblyInfo.cs

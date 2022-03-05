@@ -15,7 +15,7 @@ namespace EJOGOS.Models
         //Variavel de dados.
         private const string caminho = "Database/equipe.csv";
 
-        public Equipe()
+        public Equipe() 
         {
             CriarPastaOuArquivo(caminho);
         }

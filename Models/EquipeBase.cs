@@ -14,14 +14,14 @@ namespace EJOGOS.Models
 
             string pasta = caminho.Split('/')[0];
 
-            string arquivo = caminho.Split('/')[1];   
+            //string arquivo = caminho.Split('/')[1];   
 
             if (!Directory.Exists(pasta))
             {
                 Directory.CreateDirectory(pasta);
             }
 
-            if (!File.Exists(arquivo))
+            if (!File.Exists(caminho))
             {
                 File.Create(caminho).Close();
             }
